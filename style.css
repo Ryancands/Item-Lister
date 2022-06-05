@@ -1,0 +1,5 @@
+.small-middle-container {
+    margin: auto;
+    min-width: 40%;
+    max-width: 600px;
+}

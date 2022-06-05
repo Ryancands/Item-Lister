@@ -1,0 +1,29 @@
+Content
+
+Create Item 
+	-createElement li
+	-add class name in li
+	-add text to item from input value
+
+Delete Button
+	- identify if the contains classname
+	- remove the child
+
+Filter/ Search 
+	-
+	-
+	-
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
